@@ -1,4 +1,3 @@
-<script>
 var pushX = 0;
 var pushXalt = 0;
 var pushY = 0;
@@ -198,4 +197,3 @@ function mouseClicked() {
     noLoop();
   }
 }
-</script>
