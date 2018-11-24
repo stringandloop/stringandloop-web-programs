@@ -189,7 +189,7 @@ function reset() {
   }
 }
 
-function mouseClicked() {
+function touchStarted()  {
   play = !play;
   if (play === true) {
     loop();
